@@ -1,0 +1,31 @@
+{
+    "profesores":
+    [
+        {
+            "nombre":"Lander",
+            "appellido":"Montenegro",
+            "materias":[
+                { "nombre": "NodeJS desde cero"},
+                {"nombre":"Reac JS"},
+                {"nombre":"javascript"}
+            ]
+        }
+    ],
+    "alumnos":[
+        {
+            "nombre":"Peter",
+            "appellido":"Montenegro",
+            "promedio": 8.2
+        },
+        {
+            "nombre":"pablo",
+            "appellido":"Montenegro",
+            "promedio": 7.2
+        }
+    ],
+    "cursos":[
+        {"nombre":"nodejs","duracion":7,"dificultad":"intermedio"},
+        {"nombre":"react","duracion":8,"dificultad":"intermedio"},
+        {"nombre":"angular","duracion":9,"dificultad":"intermedio"}
+    ]
+}

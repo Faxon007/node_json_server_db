@@ -1,0 +1,15 @@
+{
+  "name": "projectjsonserver",
+  "version": "1.0.0",
+  "description": "Servidor con información",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch db.json"
+  },
+  "author": "Lander",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
